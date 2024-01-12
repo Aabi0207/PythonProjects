@@ -2,8 +2,8 @@ from datetime import datetime
 import pandas
 import smtplib
 
-MY_EMAIL = "eren.jaeger2387@gmail.com"
-MY_PASSWORD = "@erwin12"
+MY_EMAIL = "Your Email"
+MY_PASSWORD = "Your Password"
 
 today_tuple = (datetime.now().month, datetime.now().day)
 

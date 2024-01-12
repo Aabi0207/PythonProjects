@@ -4,8 +4,8 @@ from twilio.rest import Client
 
 STOCK = "TSLA"
 COMPANY_NAME = "Tesla Inc"
-stock_api_key = "CMV0OPBCFZ5EJ7M3"
-news_api_key = "340e7a18429147e482d8ffdb0444ff52"
+stock_api_key = "Your api key"
+news_api_key = "Your api key"
 
 ## STEP 1: Use https://www.alphavantage.co
 # When STOCK price increase/decreases by 5% between yesterday and the day before yesterday then print("Get News").
